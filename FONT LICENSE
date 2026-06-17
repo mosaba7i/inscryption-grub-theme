@@ -1,0 +1,10 @@
+the font was taken from this website:
+ 
+https://www.fontspace.com/megamax-jonathan-too-font-f124011
+
+then converted to pf2 using grub-mkfont:
+grub-mkfont -o MegamaxJonathanToo-YqOq2.pf2  MegamaxJonathanToo-YqOq2.ttf 
+
+all copyright of the fonts goes to the designer heaven castro
+
+

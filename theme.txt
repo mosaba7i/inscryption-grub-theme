@@ -1,0 +1,50 @@
+# Global properties
+title-text: ""
+desktop-image: "insc.png"
+desktop-color: "#0a0000"
+terminal-font: " Megamax Jonathan Too Regular 16"
+terminal-box: "term_*.png"
+terminal-left: "0"
+terminal-top: "0"
+terminal-width: "100%"
+terminal-height: "100%"
+terminal-border: "0"
+
+# Boot menu
++ boot_menu {
+  left = 25%
+  top = 40%
+  width = 50%
+  height = 30%
+  item_font = " Megamax Jonathan Too Regular 16"
+  item_color = "#ff3b3b"
+  selected_item_color = "#ffffff"
+  item_height = 40
+  item_spacing = 6
+  item_icon_space = 10
+  item_pixmap_style = "mask_*.png"
+  selected_item_pixmap_style = "nav_*.png"
+}
+
+# Countdown message
++ label {
+  left = 0
+  top = 92%
+  width = 100%
+  align = "center"
+  id = "__timeout__"
+  text = "Booting in %d seconds"
+  color = "#ff3b3b"
+  font = " Megamax Jonathan Too Regular 16"
+}
+
+# Navigation keys hint
++ label {
+  left = 0
+  top = 96%
+  width = 100%
+  align = "center"
+  text = "↑ ↓ to navigate • Enter to select"
+  color = "#aa2222"
+  font = " Megamax Jonathan Too Regular 16"
+}
