@@ -26,7 +26,7 @@ sudo cp -r . /boot/grub/themes/insc
 sudo nano /etc/default/grub
 ```
 
-2.5.Add this line or edit it to (if already there):
+2.5. Add this line or edit it to (if already there):
 ```bash
 GRUB_THEME="/boot/grub/themes/insc/theme.txt"
 ```
