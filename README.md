@@ -73,7 +73,7 @@ sudo reboot
 
 ## Contributing
 
-If you want to improve the theme (new icons, tweaks to layout, accessibility fixes), open a pull request or contact me. Provide screenshots and a short changelog for easier review.
+If you want to improve the theme (new icons, tweaks to layout, accessibility fixes) or fix something, open a pull request or contact me.
 
 ---
 
