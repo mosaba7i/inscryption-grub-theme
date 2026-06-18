@@ -47,11 +47,11 @@ sudo grub-mkconfig -o /boot/grub/grub.cfg
 sudo reboot
 ```
 
-## What tools I used to make this?
+## What tools I used to make this grub theme?
 
 
 
-### tools used while making icons and assets:
+### tools used in making and editing icons:
 
 - Megamax Jonathan Too font: https://www.fontspace.com/megamax-jonathan-too-font-f124011
 - Batch crop/resizing: https://batchimagecrop.com/
