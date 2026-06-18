@@ -2,7 +2,7 @@
 
 a GRUB theme inspired by the aesthetics of the game "Inscryption".
 
- <img src = "./insc.gif">
+ <img src = "./inscr.gif">
 
 ## Contents
 
