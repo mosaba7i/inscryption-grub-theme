@@ -3,7 +3,8 @@
 a GRUB theme inspired by the aesthetics of the game "Inscryption".
 
  <img src = "./inscr.gif">
-
+ 
+Note: tested on ubuntu
 ## Contents
 
 - `theme.txt` — main GRUB theme configuration
