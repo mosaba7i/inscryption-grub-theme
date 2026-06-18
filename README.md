@@ -1,6 +1,6 @@
 # Inscryption GRUB Theme
 
-A dark, atmospheric GRUB theme inspired by the aesthetics of the game "Inscryption".
+a GRUB theme inspired by the aesthetics of the game "Inscryption".
 
  <img src = "./insc.gif">
 
